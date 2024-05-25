@@ -6,7 +6,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 function onEachFeature(feature, layer) {
-    if (feature.properties && feature.properties.name && feature.properties.address && feature.properties.rhs && feature.properties.rhs_archive) {
+    if (feature.properties && feature.properties.name && feature.properties.address && feature.properties.rhs) {
         layer.bindPopup(
             '<strong>' + feature.properties.name + '</strong><br>' +
             feature.properties.address + '<br>' +

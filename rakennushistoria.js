@@ -13,8 +13,7 @@ let rakennushistoria =
         "properties": {
           "address": "Vuorimiehentie 1",
           "name": "Puunjalostusosasto/Puu1",
-          "rhs": "https://static.espoo.fi/cdn/ff/PEpSybTmnn39vSoPm7enlNJkYVHpyqg58yHENXxZX_s/1678457249/public/2023-03/220209%20Kivimies%20Vuorimiehentie%201%20rakennushistoriaselvitys%202022.pdf",
-          "rhs_archive": "https://web.archive.org/web/20240515003310/https://static.espoo.fi/cdn/ff/PEpSybTmnn39vSoPm7enlNJkYVHpyqg58yHENXxZX_s/1678457249/public/2023-03/220209%20Kivimies%20Vuorimiehentie%201%20rakennushistoriaselvitys%202022.pdf"
+          "rhs": "https://static.espoo.fi/cdn/ff/PEpSybTmnn39vSoPm7enlNJkYVHpyqg58yHENXxZX_s/1678457249/public/2023-03/220209%20Kivimies%20Vuorimiehentie%201%20rakennushistoriaselvitys%202022.pdf"
         }
       },
       {
@@ -28,8 +27,7 @@ let rakennushistoria =
         "properties": {
           "address": "Vuorimiehentie 5",
           "name": "VTT päärakennus",
-          "rhs": "https://static.espoo.fi/cdn/ff/2ANXhnrqbXAMYsCbB4IQ-Hw7mL-po7GqhQg-StZRgxY/1678456783/public/2023-03/220209%20Kivimies%20Vuorimiehentie%205%20rakennushistoriaselvitys%202022.pdf",
-          "rhs_archive": "https://web.archive.org/web/20240515003255/https://static.espoo.fi/cdn/ff/2ANXhnrqbXAMYsCbB4IQ-Hw7mL-po7GqhQg-StZRgxY/1678456783/public/2023-03/220209%20Kivimies%20Vuorimiehentie%205%20rakennushistoriaselvitys%202022.pdf"
+          "rhs": "https://static.espoo.fi/cdn/ff/2ANXhnrqbXAMYsCbB4IQ-Hw7mL-po7GqhQg-StZRgxY/1678456783/public/2023-03/220209%20Kivimies%20Vuorimiehentie%205%20rakennushistoriaselvitys%202022.pdf"
         }
       },
       {
