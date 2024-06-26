@@ -141,6 +141,34 @@ let rakennushistoria =
           "name": "Oy Slev Ab Kauklahti",
           "rhs": "https://static.espoo.fi/cdn/ff/QmX20_kdHHs9-v7ykv9DhuSnVsE5mdPrT7Hebha-40U/1619612876/public/2021-04/Rakennushistoriaselvitys%20Oy%20Slev%20Ab%20Kauklahti%202018%20Ei%20saavutettava.pdf"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Suurlohjankatu 9-13",
+          "name": "Lohjan Sokos",
+          "rhs": "https://lohja.emmi.fi/l/XTnb_BLcWGB6"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Paikkarinkatu 2-4",
+          "name": "Sundmanin keksitehdas",
+          "rhs": "https://lohja.emmi.fi/l/nP7nVPJZvBCB"
+        }
       }
     ]
   }
