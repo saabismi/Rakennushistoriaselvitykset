@@ -18,7 +18,7 @@ function onEachFeature(feature, layer) {
 
 L.geoJSON(rakennushistoria, {onEachFeature: onEachFeature}).addTo(map); // Add GeoJSON layer
 
-/*
+
 // A button for getting coordinates visible by clicking on the map
 function enableAdminmode() {
     var popup = L.popup();
@@ -31,4 +31,3 @@ function enableAdminmode() {
     }
     map.on('click', onMapClick);
 }
-*/
