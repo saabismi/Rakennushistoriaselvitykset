@@ -169,6 +169,168 @@ let rakennushistoria =
           "name": "Sundmanin keksitehdas",
           "rhs": "https://lohja.emmi.fi/l/nP7nVPJZvBCB"
         }
-      }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Tapiontori 1",
+          "name": "Tapiolan keskustorni",
+          "rhs": "https://static.espoo.fi/cdn/ff/Ps0vdIv1us4YUGlxuCMiyqPHB0uoEHfF46dfx3kGZGs/1709014337/public/2024-02/Tapiolan%20keskustorni%20Rakennushistoriaselvitys%202022%20Ei%20saavutettava.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Kaupinkalliontie/Kauppamiehentie",
+          "name": "Tapiolan terveystalo ja urheilutalo",
+          "rhs": "https://static.espoo.fi/cdn/ff/rAKChIDw0Ay2XEy9dipX6YPE7J23rXspneBc_sCP-DI/1709014208/public/2024-02/Tapiolan%20terveystalo%20ja%20urheilutalo%20Rakennushistoriaselvitys%202002%20Ei%20saavutettava.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Tapiontori 3",
+          "name": "Tapiolan ostoskeskus Oy",
+          "rhs": "https://static.espoo.fi/cdn/ff/kVLQtffCXKJBcXylrxXzbGFsTvZRrrZK799oNFAfCKw/1709104197/public/2024-02/Tapiolan%20Ostoskeskus%20Oy%20Rakennushistoriaselvitys%202023%20Ei%20saavutettava.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Haapaniemenkatu 4",
+          "name": "Virastotalo",
+          "rhs": "https://www.senaatti.fi/app/uploads/2017/05/3171-2013_Schulman_Hki_Haapaniemenkatu_4_RHS.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Sammalkalliontie 5",
+          "name": "Olarin ostoskeskus",
+          "rhs": "https://livady.fi/wp-content/uploads/Olarin_ostoskeskus_RHS_Livady-1.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Unioninkatu 36",
+          "name": "Kansalliskirjasto",
+          "rhs": "https://extra.kansalliskirjasto.fi/Rakennushistoriaselvitys_220911.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Kauppamiehentie 10 (aiemmin Kulttuuriaukio 2)",
+          "name": "Tapiolan kulttuurikeskus",
+          "rhs": "https://www.arkkitehditmustonen.fi/wp-content/uploads/2021/11/Espoon_kulttuurikeskus_RHS_lowres.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Pohjantie 3",
+          "name": "KOy Raitinlukko",
+          "rhs": "https://static.espoo.fi/cdn/ff/XoWdrzXq6Fn1fOOWdeTqSurhUWuJeE2Fc9NNoyDgLKk/1648535005/public/2022-03/210438%20Tapiolan%20keskus%20Rakennushistoriallinen%20selvitys%202018%20Ei%20saavutettava.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Louhentie 2",
+          "name": "Pohjantori",
+          "rhs": "https://static.espoo.fi/cdn/ff/grbVzqlp1OMoNT4JEskrWaRxvXoiExq0DwF1-3LdBhs/1679920183/public/2023-03/213104%20Pohjantori%20rakennushistoriaselvitys%202021.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Liesitori 1, Vaskivuorentie 10",
+          "name": "Kauppakeskus Isomyyri",
+          "rhs": "https://www.leppanenarkkitehdit.com/wp-content/uploads/2023/11/Kauppakeskus-Isomyyri-RHS.pdf"
+        }
+      },
+      
+      // Jono:
+      // https://www.kotka.fi/wp-content/uploads/2023/10/Kotkankatu-10_Rakennushistoriaselvitys_1302.2015.pdf
+      // https://www.senaatti.fi/app/uploads/2019/01/2019_Okulus_Vantaa_Jokiniemi_RHS.pdf
+      // https://www.ouka.fi/sites/default/files/attachments/Oulun%20p%C3%A4%C3%A4kirjaston%20RHS.pdf
+      // https://www.senaatti.fi/app/uploads/2020/09/978-952-368-066-1_2020_Ark-Byroo_Luke_Piikki%C3%B6_Johtajan-huvila_RHS.pdf
+      // https://livady.fi/wp-content/uploads/Louhentori_RHS_Livady.pdf
+      // https://www.senaatti.fi/app/uploads/2018/07/2017_ark-byroo_Espoo_Otaniemen-vesitorni_RHS.pdf
+      // https://www.tampere.fi/sites/default/files/2022-05/2020-09_rakennushistoriaselvitys_lepolan_paivakoti.pdf
+      // https://web.archive.org/web/20141104235738/http://www.livady.fi/293/haukilahti1.pdf
+      // https://web.archive.org/web/20140202112032/http://www.livady.fi/293/haukilahti2.pdf
+      // https://web.archive.org/web/20160304214407/http://www.livady.fi/293/haukilahti3.pdf
+      // https://www.imatra.fi/sites/default/files/atoms/files/Rakennushistoriallinen%20selvitys%20-%20IVOn%2040-luvun%20asuntoalue.pdf
+      // https://www.senaatti.fi/app/uploads/2017/05/3175-2014_ark-byroo_Hki_Suomalaisvena%CC%88la%CC%88inen_koulu_RHS_web.pdf
+      // https://ahjojulkaisu.hel.fi/1C9E6A8E-BCE2-CBB9-975F-69E729700000.pdf
+      // https://www.senaatti.fi/app/uploads/2017/05/3142-2010_ark-byroo_Hki_EtelaCC88esplanadi_4_RHS_web.pdf
+      // https://static.espoo.fi/cdn/ff/7_ba61e47H2vmFNOcTiJ78EePfWc-wZwRLp44U1T73Y/1709023175/public/2024-02/Kaupinkallio%20Rakennushistoriaselvitys%2C%20alueinventointi%20ja%20arvotus%202004%20Ei%20saavutettava.pdf
+      // https://web.archive.org/web/20131220014804/http://www.espoo.fi/download/noname/%7BB2380FE8-D2A0-4E19-993E-0C3D3BA96F4B%7D/34597
+      // https://www.senaatti.fi/app/uploads/2018/05/2018_Okulus_Hki_Kansallisarkisto-sis%C3%A4_OsaA.pdf
+      // https://www.senaatti.fi/app/uploads/2017/05/6619-2015_Okulus_Hki_Kansallisarkiston_julkisivut.pdf
+      // http://www.koulurakennus.fi/File/3192/170307-espoon-koulut.pdf
+      
     ]
   }
