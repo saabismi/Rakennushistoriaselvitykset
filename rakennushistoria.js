@@ -310,6 +310,20 @@ let rakennushistoria =
           "rhs": "https://www.leppanenarkkitehdit.com/wp-content/uploads/2023/11/Kauppakeskus-Isomyyri-RHS.pdf"
         }
       },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            0, 0
+          ]
+        },
+        "properties": {
+          "address": "Pohjoisesplanadi 11-13",
+          "name": "Helsingin kaupungintalo",
+          "rhs": "https://julkaisut.hel.fi/sites/default/files/2021-01/201223_Helsingin%20kaupungintalo_saavutettava.pdf"
+        }
+      }
       
       // Jono:
       // https://www.kotka.fi/wp-content/uploads/2023/10/Kotkankatu-10_Rakennushistoriaselvitys_1302.2015.pdf
@@ -319,6 +333,7 @@ let rakennushistoria =
       // https://livady.fi/wp-content/uploads/Louhentori_RHS_Livady.pdf
       // https://www.senaatti.fi/app/uploads/2018/07/2017_ark-byroo_Espoo_Otaniemen-vesitorni_RHS.pdf
       // https://www.tampere.fi/sites/default/files/2022-05/2020-09_rakennushistoriaselvitys_lepolan_paivakoti.pdf
+      // https://livady.fi/wp-content/uploads/Haukilahden-vesitorni-rhs.pdf
       // https://web.archive.org/web/20141104235738/http://www.livady.fi/293/haukilahti1.pdf
       // https://web.archive.org/web/20140202112032/http://www.livady.fi/293/haukilahti2.pdf
       // https://web.archive.org/web/20160304214407/http://www.livady.fi/293/haukilahti3.pdf
