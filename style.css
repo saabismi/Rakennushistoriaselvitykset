@@ -1,9 +1,15 @@
-html, body {
+html {
+	height: 100%;
+	margin:0;
+}
+body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin:0;
     height:100%;
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
+	background-color: #16004a;
+	color:#fcfcfc;
 }
 
 h1 {
@@ -16,20 +22,22 @@ h1 {
 #info_area {
     padding:10px;
     box-sizing: border-box;
-    flex: 0 1 auto;
+	max-width: 250pt;
 }
 
 #map_area {
-    flex: 1 1 0;
-    min-height: 400px;
-    display: flex;
+	min-width:400px;
+	width:100%;
 }
 
 #map {
     margin-left:auto;
     margin-right: auto;
-    min-height:400px;
+    min-width:400px;
     height: 100%; 
     width: 100%;
-    flex: 1;
+}
+
+a {
+	color: #6eecff;
 }
