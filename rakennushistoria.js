@@ -323,9 +323,24 @@ let rakennushistoria =
           "name": "Helsingin kaupungintalo",
           "rhs": "https://julkaisut.hel.fi/sites/default/files/2021-01/201223_Helsingin%20kaupungintalo_saavutettava.pdf"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.826677, 60.226953
+          ]
+        },
+        "properties": {
+          "address": "Mäkkyläntie 22",
+          "name": "Mäkkylän koulukeskus ja Mäkkyläntie 22 -omakotitalo",
+          "rhs": "https://static.espoo.fi/cdn/ff/Y6dXYnNSGTDgUEoZhVU3WaarCONeIONuIDMKx8GDf8U/1637673636/public/2021-11/116201%20M%C3%A4kkyl%C3%A4nkuja%20rakennushistoriallinen%20selvitys.pdf"
+        }
       }
       
       // Jono:
+      // 
       // https://www.kotka.fi/wp-content/uploads/2023/10/Kotkankatu-10_Rakennushistoriaselvitys_1302.2015.pdf
       // https://www.senaatti.fi/app/uploads/2019/01/2019_Okulus_Vantaa_Jokiniemi_RHS.pdf
       // https://www.ouka.fi/sites/default/files/attachments/Oulun%20p%C3%A4%C3%A4kirjaston%20RHS.pdf
