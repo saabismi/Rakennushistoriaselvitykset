@@ -147,7 +147,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.069971, 60.250641
           ]
         },
         "properties": {
@@ -161,7 +161,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.058942, 60.250311
           ]
         },
         "properties": {
@@ -175,7 +175,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.804639, 60.177001
           ]
         },
         "properties": {
@@ -189,7 +189,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.802102, 60.177254
           ]
         },
         "properties": {
@@ -203,7 +203,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.803972, 60.176686
           ]
         },
         "properties": {
@@ -217,7 +217,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.958141, 60.181725
           ]
         },
         "properties": {
@@ -231,7 +231,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.734204, 60.175812
           ]
         },
         "properties": {
@@ -245,7 +245,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.950265, 60.170272
           ]
         },
         "properties": {
@@ -259,7 +259,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.804338, 60.177982
           ]
         },
         "properties": {
@@ -273,7 +273,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.800778, 60.176074
           ]
         },
         "properties": {
