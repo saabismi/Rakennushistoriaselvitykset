@@ -287,7 +287,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.794351, 60.183280
           ]
         },
         "properties": {
@@ -301,7 +301,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.853789, 60.263123
           ]
         },
         "properties": {
@@ -315,7 +315,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            0, 0
+            24.952816, 60.168249
           ]
         },
         "properties": {
@@ -337,30 +337,378 @@ let rakennushistoria =
           "name": "Mäkkylän koulukeskus ja Mäkkyläntie 22 -omakotitalo",
           "rhs": "https://static.espoo.fi/cdn/ff/Y6dXYnNSGTDgUEoZhVU3WaarCONeIONuIDMKx8GDf8U/1637673636/public/2021-11/116201%20M%C3%A4kkyl%C3%A4nkuja%20rakennushistoriallinen%20selvitys.pdf"
         }
-      }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.938788, 60.462687
+          ]
+        },
+        "properties": {
+          "address": "Kotkankatu 10",
+          "name": "Kotkankatu 10",
+          "rhs": "https://www.kotka.fi/wp-content/uploads/2023/10/Kotkankatu-10_Rakennushistoriaselvitys_1302.2015.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.053934, 60.290461
+          ]
+        },
+        "properties": {
+          "address": "Jokiniemenkuja 1",
+          "name": "Vantaan Jokiniemi(MTK-METLA-LUKE -laitosrakennukset)",
+          "rhs": "https://www.senaatti.fi/app/uploads/2019/01/2019_Okulus_Vantaa_Jokiniemi_RHS.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.46353903113436, 65.01546208563168
+          ]
+        },
+        "properties": {
+          "address": "Kaarlenväylä 3",
+          "name": "Oulun kirjasto",
+          "rhs": "https://www.ouka.fi/sites/default/files/attachments/Oulun%20p%C3%A4%C3%A4kirjaston%20RHS.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            22.549230339098308, 60.38761350004054
+          ]
+        },
+        "properties": {
+          "address": "Toivonlinnantie 518, 21500, Piikkiö",
+          "name": "LUKE:n johtajan huvila",
+          "rhs": "https://www.senaatti.fi/app/uploads/2020/09/978-952-368-066-1_2020_Ark-Byroo_Luke_Piikki%C3%B6_Johtajan-huvila_RHS.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.79665435796417, 60.18719767034689
+          ]
+        },
+        "properties": {
+          "address": "Louhentie 14-16",
+          "name": "Louhentori",
+          "rhs": "https://livady.fi/wp-content/uploads/Louhentori_RHS_Livady.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.81989861665782, 60.181197904163646
+          ]
+        },
+        "properties": {
+          "address": "Tekniikantie 6, 02150 Espoo",
+          "name": "Otaniemen vesitorni",
+          "rhs": "https://www.senaatti.fi/app/uploads/2018/07/2017_ark-byroo_Espoo_Otaniemen-vesitorni_RHS.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.764902140495266, 60.161507427849656
+          ]
+        },
+        "properties": {
+          "address": "Hauenkallio 3, 02170 Espoo",
+          "name": "Haukilahden vesitorni",
+          "rhs": "https://livady.fi/wp-content/uploads/Haukilahden-vesitorni-rhs.pdf",
+          "extra1":"https://web.archive.org/web/20141104235738/http://www.livady.fi/293/haukilahti1.pdf",
+          "extra2":"https://web.archive.org/web/20140202112032/http://www.livady.fi/293/haukilahti2.pdf",
+          "extra3":"https://web.archive.org/web/20160304214407/http://www.livady.fi/293/haukilahti3.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.73493844275, 61.47123726141266
+          ]
+        },
+        "properties": {
+          "address": "Nuolialantie 50, 33900 Tampere",
+          "name": "Lepolan huvila",
+          "rhs": "https://www.tampere.fi/sites/default/files/2022-05/2020-09_rakennushistoriaselvitys_lepolan_paivakoti.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.782146276269845, 61.162283948751636
+          ]
+        },
+        "properties": {
+          "address": "Kuparintie, 55100 Imatra",
+          "name": "Imatran voiman 1940-luvun asuntoalue",
+          "rhs": "https://www.imatra.fi/sites/default/files/atoms/files/Rakennushistoriallinen%20selvitys%20-%20IVOn%2040-luvun%20asuntoalue.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.899362909896944, 60.23845406996423
+          ]
+        },
+        "properties": {
+          "address": "Kaarelankuja 2 / Kaarelantie 2, 00430 Helsinki",
+          "name": "Suomalais-venäläinen koulu",
+          "rhs": "https://www.senaatti.fi/app/uploads/2017/05/3175-2014_ark-byroo_Hki_Suomalaisvena%CC%88la%CC%88inen_koulu_RHS_web.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.943297122663633, 60.16550713321361
+          ]
+        },
+        "properties": {
+          "address": "Uudenmaankatu 1-5, 00120 Helsinki",
+          "name": "Tullihallitus (Valtion virastotalo)",
+          "rhs": "https://ahjojulkaisu.hel.fi/1C9E6A8E-BCE2-CBB9-975F-69E729700000.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.943297122663633, 60.16550713321361
+          ]
+        },
+        "properties": {
+          "address": "Uudenmaankatu 1-5, 00120 Helsinki",
+          "name": "Tullihallitus (Valtion virastotalo)",
+          "rhs": "https://ahjojulkaisu.hel.fi/1C9E6A8E-BCE2-CBB9-975F-69E729700000.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.657236672343434, 60.205252845302965
+          ]
+        },
+        "properties": {
+          "address": "Espoo",
+          "name": "Espoon koulut",
+          "rhs": "http://www.koulurakennus.fi/File/3192/170307-espoon-koulut.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.95071070600802, 60.1669691646436
+          ]
+        },
+        "properties": {
+          "address": "Eteläesplanadi 4, 00130 Helsinki",
+          "name": "Eteläesplanadi 4",
+          "rhs": "https://www.senaatti.fi/app/uploads/2017/05/3142-2010_ark-byroo_Hki_EtelaCC88esplanadi_4_RHS_web.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.801222326461946, 60.17789041815666
+          ]
+        },
+        "properties": {
+          "address": "Kaupinkallio",
+          "name": "Tapiolan Kaupinkallion rakennushistoriaselvitys, alueinventoinnit ja arvotus",
+          "rhs": "https://static.espoo.fi/cdn/ff/7_ba61e47H2vmFNOcTiJ78EePfWc-wZwRLp44U1T73Y/1709023175/public/2024-02/Kaupinkallio%20Rakennushistoriaselvitys%2C%20alueinventointi%20ja%20arvotus%202004%20Ei%20saavutettava.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.658111630705573, 60.205383613201036
+          ]
+        },
+        "properties": {
+          "address": "Espoo",
+          "name": "Espoon tornit",
+          "rhs": "https://web.archive.org/web/20131220014804/http://www.espoo.fi/download/noname/%7BB2380FE8-D2A0-4E19-993E-0C3D3BA96F4B%7D/34597"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.952721696854464, 60.17174181649975
+          ]
+        },
+        "properties": {
+          "address": "Rauhankatu 17, 00170 Helsinki",
+          "name": "Kansallisarkisto",
+          "rhs": "https://www.senaatti.fi/app/uploads/2018/05/2018_Okulus_Hki_Kansallisarkisto-sis%C3%A4_OsaA.pdf",
+          "extra1":"https://www.senaatti.fi/app/uploads/2017/05/6619-2015_Okulus_Hki_Kansallisarkiston_julkisivut.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.885282362703432, 60.392078377639834
+          ]
+        },
+        "properties": {
+          "address": "Siipoontie 1, Nummi",
+          "name": "Nummen kunnantalo",
+          "rhs": "https://lohja.emmi.fi/l/dGJt_D7GMRnJ"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.00412233093654, 60.19306895969566
+          ]
+        },
+        "properties": {
+          "address": "Suninhaka, Lohja",
+          "name": "Suninhaan kaupunkikuvallinen inventointi",
+          "rhs": "https://lohja.emmi.fi/l/LTjQK5NjFRKS"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.76005511084227, 60.257367681236424
+          ]
+        },
+        "properties": {
+          "address": "Mikolanraitti 9, 09120 Karjalohja",
+          "name": "Vanha Passi",
+          "rhs": "https://lohja.emmi.fi/l/8nt6j8G2jW9b"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.047108860700767, 60.25502466095546
+          ]
+        },
+        "properties": {
+          "address": "Kotkantie 5, Lohja",
+          "name": "Linmer Lohjan tehdasalue",
+          "rhs": "https://lohja.emmi.fi/l/82pMdSDTVN5g"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.961827023292148, 60.17726273677874
+          ]
+        },
+        "properties": {
+          "address": "Marskintie 4, Lohja",
+          "name": "Kirkniemen kansakoulu",
+          "rhs": "https://lohja.emmi.fi/l/-VqcT265HKRZ"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.963355574284513, 60.17597529602375
+          ]
+        },
+        "properties": {
+          "address": "Kotkantie 5, Lohja",
+          "name": "Kirkniemen rautatieasema-alueen rakennukset",
+          "rhs": "https://lohja.emmi.fi/l/X9RPjgpqz5Xf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.016436044565225, 60.266048823904576
+          ]
+        },
+        "properties": {
+          "address": "Paloniementie 52, Lohja",
+          "name": "Paloniemen mielisairaala",
+          "rhs": "https://lohja.emmi.fi/l/kFrNxzRNFvNk"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.01628208042543, 60.26531538464799
+          ]
+        },
+        "properties": {
+          "address": "Paloniementie 52, Lohja",
+          "name": "Paloniemen sairaalan asuntola",
+          "rhs": "https://lohja.emmi.fi/l/S8jw_xNSFXTM"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.012797483198547, 60.27175249064507
+          ]
+        },
+        "properties": {
+          "address": "Paloniemi, Lohja",
+          "name": "Paloniemen rakennusinventointi",
+          "rhs": "https://lohja.emmi.fi/l/RQJ987z2Xhcf"
+        }
+      },
       
       // Jono:
       // 
-      // https://www.kotka.fi/wp-content/uploads/2023/10/Kotkankatu-10_Rakennushistoriaselvitys_1302.2015.pdf
-      // https://www.senaatti.fi/app/uploads/2019/01/2019_Okulus_Vantaa_Jokiniemi_RHS.pdf
-      // https://www.ouka.fi/sites/default/files/attachments/Oulun%20p%C3%A4%C3%A4kirjaston%20RHS.pdf
-      // https://www.senaatti.fi/app/uploads/2020/09/978-952-368-066-1_2020_Ark-Byroo_Luke_Piikki%C3%B6_Johtajan-huvila_RHS.pdf
-      // https://livady.fi/wp-content/uploads/Louhentori_RHS_Livady.pdf
-      // https://www.senaatti.fi/app/uploads/2018/07/2017_ark-byroo_Espoo_Otaniemen-vesitorni_RHS.pdf
-      // https://www.tampere.fi/sites/default/files/2022-05/2020-09_rakennushistoriaselvitys_lepolan_paivakoti.pdf
-      // https://livady.fi/wp-content/uploads/Haukilahden-vesitorni-rhs.pdf
-      // https://web.archive.org/web/20141104235738/http://www.livady.fi/293/haukilahti1.pdf
-      // https://web.archive.org/web/20140202112032/http://www.livady.fi/293/haukilahti2.pdf
-      // https://web.archive.org/web/20160304214407/http://www.livady.fi/293/haukilahti3.pdf
-      // https://www.imatra.fi/sites/default/files/atoms/files/Rakennushistoriallinen%20selvitys%20-%20IVOn%2040-luvun%20asuntoalue.pdf
-      // https://www.senaatti.fi/app/uploads/2017/05/3175-2014_ark-byroo_Hki_Suomalaisvena%CC%88la%CC%88inen_koulu_RHS_web.pdf
-      // https://ahjojulkaisu.hel.fi/1C9E6A8E-BCE2-CBB9-975F-69E729700000.pdf
-      // https://www.senaatti.fi/app/uploads/2017/05/3142-2010_ark-byroo_Hki_EtelaCC88esplanadi_4_RHS_web.pdf
-      // https://static.espoo.fi/cdn/ff/7_ba61e47H2vmFNOcTiJ78EePfWc-wZwRLp44U1T73Y/1709023175/public/2024-02/Kaupinkallio%20Rakennushistoriaselvitys%2C%20alueinventointi%20ja%20arvotus%202004%20Ei%20saavutettava.pdf
-      // https://web.archive.org/web/20131220014804/http://www.espoo.fi/download/noname/%7BB2380FE8-D2A0-4E19-993E-0C3D3BA96F4B%7D/34597
-      // https://www.senaatti.fi/app/uploads/2018/05/2018_Okulus_Hki_Kansallisarkisto-sis%C3%A4_OsaA.pdf
-      // https://www.senaatti.fi/app/uploads/2017/05/6619-2015_Okulus_Hki_Kansallisarkiston_julkisivut.pdf
-      // http://www.koulurakennus.fi/File/3192/170307-espoon-koulut.pdf
-      
+      // 
     ]
   }
