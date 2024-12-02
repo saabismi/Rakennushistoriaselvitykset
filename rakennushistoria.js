@@ -706,6 +706,20 @@ let rakennushistoria =
           "rhs": "https://lohja.emmi.fi/l/RQJ987z2Xhcf"
         }
       },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.829833068843847, 60.180226261474765
+          ]
+        },
+        "properties": {
+          "address": "Betonimiehenkuja 4 / Kivimiehentie 1",
+          "name": "Geologian tutkimuskeskus (GTK)",
+          "rhs": "https://static.espoo.fi/cdn/ff/gEkeZD_jHfe23Xj6HIP_j2EDuUCGujjqxWb-i_2QjPo/1617800517/public/2021-04/Rakennushistoriaselvitys%20Geologian%20tutkimuskeskus%202017%20Ei%20saavutettava.pdf"
+        }
+      }
       
       // Jono:
       // 
