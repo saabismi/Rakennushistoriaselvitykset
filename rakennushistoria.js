@@ -719,6 +719,62 @@ let rakennushistoria =
           "name": "Geologian tutkimuskeskus (GTK)",
           "rhs": "https://static.espoo.fi/cdn/ff/gEkeZD_jHfe23Xj6HIP_j2EDuUCGujjqxWb-i_2QjPo/1617800517/public/2021-04/Rakennushistoriaselvitys%20Geologian%20tutkimuskeskus%202017%20Ei%20saavutettava.pdf"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.838320733357648, 60.19158912667545
+          ]
+        },
+        "properties": {
+          "address": "Servin-Maijan tie / Jämeräntaival",
+          "name": "Servinniemen rakennusselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2024-09/220408%20Servinniemi%20Rakennusselvitys%202017.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.65923829142572, 60.14660917249632
+          ]
+        },
+        "properties": {
+          "address": "Espoonlahdenkuja 4, 02320 Espoo",
+          "name": "Espoonlahden uimahalli",
+          "rhs": "https://espoo.oncloudos.com/kokous/2021220-4-14898.PDF"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.82843641790409, 60.183521817717384
+          ]
+        },
+        "properties": {
+          "address": "Metallimiehenkuja 2",
+          "name": "VTT Valimo",
+          "rhs": "https://static.espoo.fi/cdn/ff/ESfVaAiuvIx34Xf5XXqUJiP90lforNRNDUVq9DMkkcs/1678456592/public/2023-03/220209%20Kivimies%20Metallimiehenkuja%202%20VTT%20valimo%20rakennushistoriaselvitys%202004.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.803624132120795, 60.18509741772326
+          ]
+        },
+        "properties": {
+          "address": "Kalevalantie 7",
+          "name": "KOy Kalevalantie 7 ('Siton talo')",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2022-12/213410%20Tiet%C3%A4j%C3%A4nkulma%20rakennushistoriaselvitys%202022.pdf"
+        }
       }
       
       // Jono:
