@@ -775,6 +775,48 @@ let rakennushistoria =
           "name": "KOy Kalevalantie 7 ('Siton talo')",
           "rhs": "https://admin.espoo.fi/sites/default/files/2022-12/213410%20Tiet%C3%A4j%C3%A4nkulma%20rakennushistoriaselvitys%202022.pdf"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.807344912377268, 60.1785138642553
+          ]
+        },
+        "properties": {
+          "address": "Kirkkopolku 3",
+          "name": "Tapiolan uimahalli (diplomityö, jossa tietoa uimahallista, ei varsinainen RHS)",
+          "rhs": "https://aaltodoc.aalto.fi/server/api/core/bitstreams/aef02c5d-80b3-4969-b021-9c4859e92080/content"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.787458350188366, 60.17614648696715
+          ]
+        },
+        "properties": {
+          "address": "Kirkkopolku 3",
+          "name": "Jousenkaaren koulu (diplomityö, jossa tietoa uimahallista, ei varsinainen RHS)",
+          "rhs": "https://aaltodoc.aalto.fi/server/api/core/bitstreams/03259899-cf98-4a44-bc63-5985acce8705/content"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.704194591822795, 60.17622996359763
+          ]
+        },
+        "properties": {
+          "address": "Puolarinportti",
+          "name": "Puolarmetsän sairaala (tiedustele selvitystä Pekka Saatsilta",
+          "rhs": "https://www.saatsi.fi/rhs-puolarmetsan-sairaala/"
+        }
       }
       
       // Jono:
