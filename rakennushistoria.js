@@ -814,8 +814,36 @@ let rakennushistoria =
         },
         "properties": {
           "address": "Puolarinportti",
-          "name": "Puolarmetsän sairaala (tiedustele selvitystä Pekka Saatsilta",
+          "name": "Puolarmetsän sairaala (tiedustele selvitystä Pekka Saatsilta)",
           "rhs": "https://www.saatsi.fi/rhs-puolarmetsan-sairaala/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.728619137285477, 60.20898177468849
+          ]
+        },
+        "properties": {
+          "address": "Kauniaistentie 10",
+          "name": "Kauniaisten kaupungintalo",
+          "rhs": "https://www.stadionark.fi/projectsksms/kauniaisten-kaupungintalo%2C-suppea-rakennushistorian-selvitys"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.033599488460858, 60.248494079184226
+          ]
+        },
+        "properties": {
+          "address": "Lohja",
+          "name": "Lohjan rakennetun ympäristön inventointiluettelo 2007",
+          "rhs": "https://lohja.emmi.fi/l/fjb8Mnn7qb2P"
         }
       }
       
