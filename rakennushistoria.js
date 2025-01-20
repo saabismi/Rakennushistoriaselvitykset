@@ -845,6 +845,20 @@ let rakennushistoria =
           "name": "Lohjan rakennetun ympäristön inventointiluettelo 2007",
           "rhs": "https://lohja.emmi.fi/l/fjb8Mnn7qb2P"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.810850156184497, 60.24243150344169
+          ]
+        },
+        "properties": {
+          "address": "Jääskelä, Lintuvaara, Espoo",
+          "name": "Jääskelän pientaloalueen rakennusinventointi",
+          "rhs": "https://static.espoo.fi/cdn/ff/UAASGq-K-nGwj3SVG44ncGg72wpIxnqmFEVDjHyj3_c/1655817726/public/2022-06/J%C3%A4%C3%A4skel%C3%A4_rakennusinventointi.pdf"
+        }
       }
       
       // Jono:
