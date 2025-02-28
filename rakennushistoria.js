@@ -859,6 +859,76 @@ let rakennushistoria =
           "name": "Jääskelän pientaloalueen rakennusinventointi",
           "rhs": "https://static.espoo.fi/cdn/ff/UAASGq-K-nGwj3SVG44ncGg72wpIxnqmFEVDjHyj3_c/1655817726/public/2022-06/J%C3%A4%C3%A4skel%C3%A4_rakennusinventointi.pdf"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.828345107973185, 60.184049342491754
+          ]
+        },
+        "properties": {
+          "address": "Otaniemi",
+          "name":"Otaniemen kulttuuriympäristöselvitys",
+          "rhs": "https://www.senaatti.fi/app/uploads/2017/05/3179-2014_Livady_Espoo_Otaniemi_KHS_web.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.821372442567473, 60.18538715665153
+          ]
+        },
+        "properties": {
+          "address": "Tietotie 2–4, entinen Biologinkuja 1–7",
+          "name":"Otaniemen Biologin korttelin rakennushistorian selvitys",
+          "rhs": "https://www.senaatti.fi/app/uploads/2023/10/978%E2%80%93952%E2%80%93368%E2%80%93142%E2%80%932_Biologin-kortteli-RHS.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.820161036189543, 60.18560559862995
+          ]
+        },
+        "properties": {
+          "address": "Tietotie 1 E",
+          "name":"Vesitalo",
+          "rhs": "https://aaltodoc.aalto.fi/server/api/core/bitstreams/f0cdc213-1e1f-4ea7-91c8-4a52c77e7f78/content"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.820161036189543, 60.18560559862995
+          ]
+        },
+        "properties": {
+          "address": "Vanha Maantie 6",
+          "name":"Espoon-Vantaan teknillinen oppilaitos (ei luettavissa verkossa)",
+          "rhs": "https://kansalliskirjasto.finna.fi/kansalliskirjastofikka/Record/fikka.5461968"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.806937939059406, 60.182227476885664
+          ]
+        },
+        "properties": {
+          "address": "Aarnivalkeantie 9",
+          "name":"Aarnivalkean koulu (PDF pyytämällä Pekka Saatsilta)",
+          "rhs": "https://www.saatsi.fi/rhs-aarnivalkean-koulu/"
+        }
       }
       
       // Jono:
