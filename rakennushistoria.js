@@ -912,7 +912,7 @@ let rakennushistoria =
         },
         "properties": {
           "address": "Vanha Maantie 6",
-          "name":"Espoon-Vantaan teknillinen oppilaitos (ei luettavissa verkossa)",
+          "name":"Espoon-Vantaan teknillinen oppilaitos (luettavissa vapaakappaletyöasemilla)",
           "rhs": "https://kansalliskirjasto.finna.fi/kansalliskirjastofikka/Record/fikka.5461968"
         }
       },
@@ -929,10 +929,212 @@ let rakennushistoria =
           "name":"Aarnivalkean koulu (PDF pyytämällä Pekka Saatsilta)",
           "rhs": "https://www.saatsi.fi/rhs-aarnivalkean-koulu/"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.795144607419164, 60.18657959457486
+          ]
+        },
+        "properties": {
+          "address": "Sepontie ",
+          "name":"Sepon koulu (luettavissa vapaakappaletyöasemilla)",
+          "rhs": "https://oy.finna.fi/Record/oy_electronic_oy.9917729632006252"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.790950494653735, 60.18729954312452
+          ]
+        },
+        "properties": {
+          "address": "Sepontie",
+          "name":"Pohjois-Tapiolan koulu (fyysinen kappale Tiedekirjasto Pegasuksessa)",
+          "rhs": "https://oy.finna.fi/Record/oy.9917666177606252"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.725924403649195, 60.167060851383134
+          ]
+        },
+        "properties": {
+          "address": "Friisinkalliontie 4",
+          "name":"Kuitinmäen alakoulu (fyysinen kappale Tiedekirjasto Pegasuksessa)",
+          "rhs": "https://oy.finna.fi/Record/oy.9917666177706252"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.77160582303018, 60.21009450755069
+          ]
+        },
+        "properties": {
+          "address": "Aspelinintie",
+          "name":"Kilon koulu (luettavissa vapaakappaletyöasemilla)",
+          "rhs": "https://oy.finna.fi/Record/oy.9917666177706252"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.835960481582983, 60.16373881058442
+          ]
+        },
+        "properties": {
+          "address": "Hanasaarenranta",
+          "name":"Hanasaari (luettavissa vapaakappaletyöasemilla)",
+          "rhs": "https://finna.fi/Record/fikka.4287017?sid=4949353721"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.742823672377572, 60.15483187079967
+          ]
+        },
+        "properties": {
+          "address": "Leilankuja 3",
+          "name":"Matinkylän päiväkoti (Arkkitehtuurimuseon kirjastossa)",
+          "rhs": "https://finna.fi/Record/arkkitehtuurimuseo.52828?sid=4949353721"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.832734964489774, 60.18606521416099
+          ]
+        },
+        "properties": {
+          "address": "Otakaari 22, 02150 Espoo",
+          "name":"Urdsgjallar (TF:n osakuntatalo) \"Täffä\"",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2021-05/Teknologf%C3%B6reningen%20220212%20Rakennushistoriaselvitys%202016%20Ei%20saavutettava.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.05308356545006, 60.20063185910196
+          ]
+        },
+        "properties": {
+          "address": "Vuorenpeikontie 7",
+          "name":"Roihuvuoren ala-aste",
+          "rhs": "https://www.koulurakennus.fi/File/3231/roihuvuoren-ala-aste-rhs.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.726665164945043, 60.17309980376065
+          ]
+        },
+        "properties": {
+          "address": "Puolikuu 2",
+          "name":"Oy Esso Ab pääkonttori (erikseen pyytämällä)",
+          "rhs": "https://livady.fi/projektit/oy-esso-ab-paakonttori/"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.02958982700873, 60.3970781720956
+          ]
+        },
+        "properties": {
+          "address": "Hyrylän varuskunta-alue",
+          "name":"Hyrylän varuskunta-alueen lämpökeskus",
+          "rhs": "https://livady.fi/wp-content/uploads/Hyryl%C3%A4n-l%C3%A4mp%C3%B6keskus_Livady.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.937545678543366, 60.15673302491354
+          ]
+        },
+        "properties": {
+          "address": "Eira",
+          "name":"Eiran aluehistoria ja suojelun perusteet (kandidaatintyö)",
+          "rhs": "https://aaltodoc.aalto.fi/server/api/core/bitstreams/d4d2a563-4cde-409d-ba10-29ce0306526f/content"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.748963905140965, 60.16119999520796
+          ]
+        },
+        "properties": {
+          "address": "Matinkylä",
+          "name":"Matinkylän kartanon historiaselvitys",
+          "rhs": "https://livady.fi/wp-content/uploads/Matinkylan_kartanon_historiaselvitys_nettiin.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.737365001544546, 60.18048869303961
+          ]
+        },
+        "properties": {
+          "address": "Olarinniityntie 4",
+          "name":"Olarin koulu (arkkitehtuurimuseon kirjasto)",
+          "rhs": "https://finna.fi/Record/arkkitehtuurimuseo.52941?sid=4949353721"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.95285037513022, 60.168276296966674
+          ]
+        },
+        "properties": {
+          "address": "Pohjoisesplanadi 11-13",
+          "name":"Helsingin kaupungintalo",
+          "rhs": "https://www.hel.fi/static/kanslia/Julkaisut/2021/201223_Helsingin%20kaupungintalo_saavutettava.pdf"
+        }
       }
       
       // Jono:
-      // 
-      // 
+      // Postipuun koulu https://finna.fi/Record/arkkitehtuurimuseo.52940
+      // Saarnilaakson koulu https://finna.fi/Record/arkkitehtuurimuseo.52949
+      // Espoon valtuustotalo https://finna.fi/Record/arkkitehtuurimuseo.52829
+      // Laurinlahden koulu https://finna.fi/Record/arkkitehtuurimuseo.52903
+      // Tapiolan koulu ja lukio https://finna.fi/Record/arkkitehtuurimuseo.43161
+      // Revontulen koulu https://finna.fi/Record/arkkitehtuurimuseo.43162
+      // Maunulan yhteiskoulu https://finna.fi/Record/arkkitehtuurimuseo.52316
+      // Vallipuiston päiväkoti https://finna.fi/Record/arkkitehtuurimuseo.52919
     ]
   }
