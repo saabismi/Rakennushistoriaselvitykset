@@ -1128,6 +1128,7 @@ let rakennushistoria =
       }
       
       // Jono:
+        // https://admin.espoo.fi/sites/default/files/2023-03/220209%20Kivimies%20Kivimiehentie%204%20rakennushistoriaselvitys%202019.pdf
       // Postipuun koulu https://finna.fi/Record/arkkitehtuurimuseo.52940
       // Saarnilaakson koulu https://finna.fi/Record/arkkitehtuurimuseo.52949
       // Espoon valtuustotalo https://finna.fi/Record/arkkitehtuurimuseo.52829
