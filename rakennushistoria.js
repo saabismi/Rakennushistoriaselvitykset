@@ -907,7 +907,7 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            24.820161036189543, 60.18560559862995
+            24.80472035808477, 60.22136174746954
           ]
         },
         "properties": {
@@ -1052,7 +1052,7 @@ let rakennushistoria =
         },
         "properties": {
           "address": "Puolikuu 2",
-          "name":"Oy Esso Ab pääkonttori (erikseen pyytämällä)",
+          "name":"Oy Esso Ab pääkonttori (Livadyltä erikseen pyytämällä)",
           "rhs": "https://livady.fi/projektit/oy-esso-ab-paakonttori/"
         }
       },
@@ -1108,7 +1108,7 @@ let rakennushistoria =
         },
         "properties": {
           "address": "Olarinniityntie 4",
-          "name":"Olarin koulu (arkkitehtuurimuseon kirjasto)",
+          "name":"Olarin koulu (arkkitehtuurimuseon kirjastossa)",
           "rhs": "https://finna.fi/Record/arkkitehtuurimuseo.52941?sid=4949353721"
         }
       },
@@ -1124,6 +1124,20 @@ let rakennushistoria =
           "address": "Pohjoisesplanadi 11-13",
           "name":"Helsingin kaupungintalo",
           "rhs": "https://www.hel.fi/static/kanslia/Julkaisut/2021/201223_Helsingin%20kaupungintalo_saavutettava.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.81944907089237, 60.186121685534275
+          ]
+        },
+        "properties": {
+          "address": "Tietotie 1",
+          "name":"Meritekniikan laboratorio",
+          "rhs": "https://static.espoo.fi/cdn/ff/51q7NbvjcpYB8pTe3lDhU4ZUpWkwAR8FGIU87V8KTI4/1669035448/public/2022-11/220507%20Biologi%20Meritekniikan%20laboratorion%20rakennushistoriaselvitys%202020.pdf"
         }
       }
       
