@@ -879,13 +879,27 @@ let rakennushistoria =
         "geometry": {
           "type": "Point",
           "coordinates": [
-            24.821372442567473, 60.18538715665153
+            24.821355, 60.185388
           ]
         },
         "properties": {
           "address": "Tietotie 2–4, entinen Biologinkuja 1–7",
-          "name":"Otaniemen Biologin korttelin rakennushistorian selvitys",
+          "name":"Otaniemen Biologin korttelin rakennushistorian selvitys, osa 1",
           "rhs": "https://www.senaatti.fi/app/uploads/2023/10/978%E2%80%93952%E2%80%93368%E2%80%93142%E2%80%932_Biologin-kortteli-RHS.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.822117, 60.185388
+          ]
+        },
+        "properties": {
+          "address": "Tietotie 2–4, entinen Biologinkuja 1–7",
+          "name":"Otaniemen Biologin korttelin rakennushistorian selvitys, osa 2",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2025-03/220507%20Biologi%20Otaniemen%20Biologin%20korttelin%20rakennushistoriaselvitys%20osa%202%202023.pdf"
         }
       },
       {
@@ -1135,20 +1149,255 @@ let rakennushistoria =
           ]
         },
         "properties": {
-          "address": "Tietotie 1",
+          "address": "Tietotie 1, 02150 Espoo",
           "name":"Meritekniikan laboratorio",
           "rhs": "https://static.espoo.fi/cdn/ff/51q7NbvjcpYB8pTe3lDhU4ZUpWkwAR8FGIU87V8KTI4/1669035448/public/2022-11/220507%20Biologi%20Meritekniikan%20laboratorion%20rakennushistoriaselvitys%202020.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.822246, 60.184753
+          ]
+        },
+        "properties": {
+          "address": "Tietotie 1, 02150 Espoo",
+          "name":"Biologin korttelin rakennetun kulttuuriympäristön esiselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2025-03/220507%20Biologi%20Biologin%20korttelin%20rakennetun%20kulttuuriymp%C3%A4rist%C3%B6n%20esiselvitys%202020.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.827487, 60.180802
+          ]
+        },
+        "properties": {
+          "address": "Kivimiehentie 4, 02150 Espoo",
+          "name":"Paloteknillinen laboratorio",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2023-03/220209%20Kivimies%20Kivimiehentie%204%20rakennushistoriaselvitys%202019.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.800799, 60.202490
+          ]
+        },
+        "properties": {
+          "address": "Jaakkimantie, Kirvuntie ja Heinjoenpolku, Laajalahti, Espoo",
+          "name":"Kotikontu, alueellinen rakennetun ympäristön inventointi",
+          "rhs": "https://static.espoo.fi/cdn/ff/EaReSiOZlMZF218Tkaqu6T_6Nc5vLH4KkSMKggMbmc4/1637581281/public/2021-11/120326%20Laajalahden%20keskus%20Kotikontu%20alueellinen%20rakennetun%20ymp%C3%A4rist%C3%B6n%20inventointi%202018_ei%20saavutettava.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.825035, 60.183734
+          ]
+        },
+        "properties": {
+          "address": "Kemistintie 1, 02150 Espoo",
+          "name":"Kemian osaston rakennushistoriaselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2021-05/Rakennushistoriaselvitys%20Kemistintie%201%202018%20EI%20SAAVUTETTAVA.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.825507, 60.182854
+          ]
+        },
+        "properties": {
+          "address": "Vuorimiehentie 2, 02150 Espoo",
+          "name":"Materiaalitekniikan laitoksen rakennushistoriaselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2021-05/Rakennushistoriaselvitys%20Vuorimiehentie%202%202016%20EI%20SAAVUTETTAVA.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.825518, 60.180896
+          ]
+        },
+        "properties": {
+          "address": "Tekniikantie 3, 02150 Espoo",
+          "name":"Graafisen tekniikan laitoksen rakennushistoriaselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2023-03/220209%20Kivimies%20Tekniikantie%203%20rakennushistoriaselvitys%202023.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.828351, 60.180506
+          ]
+        },
+        "properties": {
+          "address": "Ns. Kivimiehen kortteli, Otaniemi",
+          "name":"Kivimiehen alueen kulttuuriympäristöselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2023-03/220209%20Kivimies%20Kulttuuriymp%C3%A4rist%C3%B6selvitys%20Kivimiehen%20alue%202017.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.830700, 60.181691
+          ]
+        },
+        "properties": {
+          "address": "Lämpömiehenkuja 3",
+          "name":"Lämpöteknillisen laboratorion rakennushistoriaselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2023-03/220209%20Kivimies%20L%C3%A4mp%C3%B6miehenkuja%203%20rakennushistoriaselvitys%202017.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.831998, 60.182091
+          ]
+        },
+        "properties": {
+          "address": "Lämpömiehenkuja 2",
+          "name":"Tie- ja geoteknillisen laboratorion rakennushistoriaselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2023-03/220209%20Kivimies%20L%C3%A4mp%C3%B6miehenkuja%202%20rakennushistoriaselvitys%202010.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.829853, 60.182944
+          ]
+        },
+        "properties": {
+          "address": "Metallimiehenkuja 6–8",
+          "name":"Metalliteknisten ja Kojeteknisten laboratorioiden rakennushistoriaselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2023-03/220209%20Kivimies%20Metallimiehenkuja%206-8%20rakennushistoriaselvitys%202017.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.829853, 60.182944
+          ]
+        },
+        "properties": {
+          "address": "Metallimiehenkuja 2 ja 4",
+          "name":"Vuoritekniikan ja metallurgian laboratorioiden rakennushistoriaselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2023-03/220209%20Kivimies%20Metallimiehenkuja%202%20ja%204%20rakennushistoriaselvitys%202022.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.823126, 60.180186
+          ]
+        },
+        "properties": {
+          "address": "Tekniikantie 2",
+          "name":"Keskuslaboratorion rakennushistoriaselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2022-12/220616%20Keskuslaboratorio%20Rakennushistoriaselvitys%202013%20ei%20saavutettava.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.827911, 60.179349
+          ]
+        },
+        "properties": {
+          "address": "Kivimiehentie 2",
+          "name":"Valtion palokoulun rakennushistoriaselvitys",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2025-02/220209%20Kivimies%20Raja-%20ja%20merivartiolaitos%20rakennushistoriaselvitys%202017.pdf"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.811206, 60.182400
+          ]
+        },
+        "properties": {
+          "address": "Menninkäisentie 7",
+          "name":"Tapiolan päiväkoti (käytettävissä vapaakappaletyöasemilla)",
+          "rhs": "https://kansalliskirjasto.finna.fi/Record/fikka.5431896"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.804951, 60.179274
+          ]
+        },
+        "properties": {
+          "address": "Opintie 1",
+          "name":"Tapiolan koulu ja lukio (saatavilla Arkkitehtuurimuseon kirjastossa)",
+          "rhs": "https://finna.fi/Record/arkkitehtuurimuseo.43161"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.734917, 60.307159
+          ]
+        },
+        "properties": {
+          "address": "Hiirisuontie 3",
+          "name":"Kalajärven koulu ja päiväkoti (käytettävissä vapaakappaletyöasemilla)",
+          "rhs": "https://kansalliskirjasto.finna.fi/Record/fikka.5461971"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.803610, 60.170509
+          ]
+        },
+        "properties": {
+          "address": "Revontulentie",
+          "name":"Revontulen koulu (saatavilla Arkkitehtuurimuseon kirjastossa)",
+          "rhs": "https://finna.fi/Record/arkkitehtuurimuseo.43162"
         }
       }
       
       // Jono:
-        // https://admin.espoo.fi/sites/default/files/2023-03/220209%20Kivimies%20Kivimiehentie%204%20rakennushistoriaselvitys%202019.pdf
       // Postipuun koulu https://finna.fi/Record/arkkitehtuurimuseo.52940
       // Saarnilaakson koulu https://finna.fi/Record/arkkitehtuurimuseo.52949
       // Espoon valtuustotalo https://finna.fi/Record/arkkitehtuurimuseo.52829
       // Laurinlahden koulu https://finna.fi/Record/arkkitehtuurimuseo.52903
-      // Tapiolan koulu ja lukio https://finna.fi/Record/arkkitehtuurimuseo.43161
-      // Revontulen koulu https://finna.fi/Record/arkkitehtuurimuseo.43162
       // Maunulan yhteiskoulu https://finna.fi/Record/arkkitehtuurimuseo.52316
       // Vallipuiston päiväkoti https://finna.fi/Record/arkkitehtuurimuseo.52919
     ]
