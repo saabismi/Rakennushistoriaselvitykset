@@ -1391,6 +1391,20 @@ let rakennushistoria =
           "name":"Revontulen koulu (saatavilla Arkkitehtuurimuseon kirjastossa)",
           "rhs": "https://finna.fi/Record/arkkitehtuurimuseo.43162"
         }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.807150, 60.175608
+          ]
+        },
+        "properties": {
+          "address": "Tapiolan keskus",
+          "name":"Tapiolan keskuksen kulttuuriympäristöanalyysi",
+          "rhs": "https://static.espoo.fi/cdn/ff/QUwwTnthfYeNmp9cvVhI7WcQQ0pGxmwZhTeql6aMgDQ/1631254886/public/2021-09/Liite%204_Tapiolan%20keskus%20kulttuuriymp%C3%A4ristoanalyysi%20021111.pdf"
+        }
       }
       
       // Jono:
