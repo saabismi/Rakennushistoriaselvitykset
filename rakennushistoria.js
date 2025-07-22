@@ -1405,6 +1405,20 @@ let rakennushistoria =
           "name":"Tapiolan keskuksen kulttuuriympäristöanalyysi",
           "rhs": "https://static.espoo.fi/cdn/ff/QUwwTnthfYeNmp9cvVhI7WcQQ0pGxmwZhTeql6aMgDQ/1631254886/public/2021-09/Liite%204_Tapiolan%20keskus%20kulttuuriymp%C3%A4ristoanalyysi%20021111.pdf"
         }
+      },
+    {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.803611639878408, 60.17721461920845
+          ]
+        },
+        "properties": {
+          "address": "Kauppamiehentie",
+          "name":"KOy Kulttuuriaukio (ent. Kulttuuritori), ns. Marimekkotalo",
+          "rhs": "https://admin.espoo.fi/sites/default/files/2024-02/KOy%20Tapiolan%20Kulttuuriaukio%20Rakennushistoriaselvitys%202022%20Ei%20saavutettava.pdf"
+        }
       }
       
       // Jono:
