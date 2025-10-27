@@ -1422,6 +1422,7 @@ let rakennushistoria =
       }
       
       // Jono:
+        // Lohja Kullervonkatu https://lohja.emmi.fi/l/2j7LNkKNmvNJ
         // Selvityksiä: https://www.senaatti.fi/valtion-kiinteistot/kulttuuriperintomme/raportit/?s_city%5B%5D=espoo
         // Kulttuuriympäristöselvitys Kemistin kortteli https://www.senaatti.fi/app/uploads/2021/08/978-952-368-082-1_2021_Ark-Byroo_Kemistin-kortteli_lores-s.pdf
         // Vantaan poliisi- ja oikeustalo https://www.senaatti.fi/app/uploads/2021/08/978-952-368-088-3_2021_Vantaan-oikeus-ja-poliisitalo_RHS.pdf
