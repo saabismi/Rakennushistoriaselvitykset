@@ -1432,5 +1432,6 @@ let rakennushistoria =
       // Laurinlahden koulu https://finna.fi/Record/arkkitehtuurimuseo.52903
       // Maunulan yhteiskoulu https://finna.fi/Record/arkkitehtuurimuseo.52316
       // Vallipuiston päiväkoti https://finna.fi/Record/arkkitehtuurimuseo.52919
+        // Äijälä https://lohja.emmi.fi/l/QtFJd7KPk_jZ
     ]
   }
