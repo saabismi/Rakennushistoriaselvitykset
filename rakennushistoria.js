@@ -1407,31 +1407,126 @@ let rakennushistoria =
         }
       },
     {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            24.803611639878408, 60.17721461920845
-          ]
-        },
-        "properties": {
-          "address": "Kauppamiehentie",
-          "name":"KOy Kulttuuriaukio (ent. Kulttuuritori), ns. Marimekkotalo",
-          "rhs": "https://admin.espoo.fi/sites/default/files/2024-02/KOy%20Tapiolan%20Kulttuuriaukio%20Rakennushistoriaselvitys%202022%20Ei%20saavutettava.pdf"
-        }
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.803611639878408, 60.17721461920845
+        ]
+      },
+      "properties": {
+        "address": "Kauppamiehentie",
+        "name":"KOy Kulttuuriaukio (ent. Kulttuuritori), ns. Marimekkotalo",
+        "rhs": "https://admin.espoo.fi/sites/default/files/2024-02/KOy%20Tapiolan%20Kulttuuriaukio%20Rakennushistoriaselvitys%202022%20Ei%20saavutettava.pdf"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.824797659535704, 60.22330584404752
+        ]
+      },
+      "properties": {
+        "address": "Ruutikatu/-kuja",
+        "name":"Postipuun koulu (saatavilla Arkkitehtuurimuseon kirjastossa)",
+        "rhs": "https://finna.fi/Record/arkkitehtuurimuseo.52940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.140583367937452, 60.36314678307837
+        ]
+      },
+      "properties": {
+        "address": "Äijäläntie",
+        "name":"Äijälän ranta-asemakaava-alue",
+        "rhs": "https://lohja.emmi.fi/l/QtFJd7KPk_jZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.071914, 60.250029
+        ]
+      },
+      "properties": {
+        "address": "Kullervonkatu",
+        "name":"KORTTELI 63, TONTIT 3, 4 JA 6, LOHJA",
+        "rhs": "https://lohja.emmi.fi/l/QtFJd7KPk_jZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.751134736571057, 62.23355267309059
+        ]
+      },
+      "properties": {
+        "address": "Jyväskylä",
+        "name":"Jyväskylän kulttuuriympäristöselvitys",
+        "rhs": "https://www2.jkl.fi/kaavakartat/y200/selvitykset/JKL_kulttuuriymparistoselvitys_paivitys.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.70200374570059, 62.2530120667718
+        ]
+      },
+      "properties": {
+        "address": "Kortepohja",
+        "name":"Kortepohjan suojelukaava-alueen puutarhahistoriallinen selvitys",
+        "rhs": "https://www2.jkl.fi/kaavakartat/17_105/Kortepohjan_PHS.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.742676365947393, 62.23265429118021
+        ]
+      },
+      "properties": {
+        "address": "Jyväskylä",
+        "name":"SÄILYKE - Jyväskylän säilyttämisen arvoisten pientaloalueiden selvitys",
+        "rhs": "https://www2.jkl.fi/kaavakartat/y200/selvitykset/Sailyke_raportti_lv2_valmis.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.833316365317206, 60.1890093009104
+        ]
+      },
+      "properties": {
+        "address": "Otakaari 7",
+        "name":"Sähkötalo 1",
+        "rhs": "https://admin.espoo.fi/sites/default/files/2025-06/220508%20S%C3%A4hk%C3%B6osasto%20Otakaari%207%20rakennushistoriaselvitys%202019.pdf"
+      }
+    }
       
       // Jono:
-        // Lohja Kullervonkatu https://lohja.emmi.fi/l/2j7LNkKNmvNJ
         // Selvityksiä: https://www.senaatti.fi/valtion-kiinteistot/kulttuuriperintomme/raportit/?s_city%5B%5D=espoo
         // Kulttuuriympäristöselvitys Kemistin kortteli https://www.senaatti.fi/app/uploads/2021/08/978-952-368-082-1_2021_Ark-Byroo_Kemistin-kortteli_lores-s.pdf
         // Vantaan poliisi- ja oikeustalo https://www.senaatti.fi/app/uploads/2021/08/978-952-368-088-3_2021_Vantaan-oikeus-ja-poliisitalo_RHS.pdf
-      // Postipuun koulu https://finna.fi/Record/arkkitehtuurimuseo.52940
       // Saarnilaakson koulu https://finna.fi/Record/arkkitehtuurimuseo.52949
       // Espoon valtuustotalo https://finna.fi/Record/arkkitehtuurimuseo.52829
       // Laurinlahden koulu https://finna.fi/Record/arkkitehtuurimuseo.52903
       // Maunulan yhteiskoulu https://finna.fi/Record/arkkitehtuurimuseo.52316
       // Vallipuiston päiväkoti https://finna.fi/Record/arkkitehtuurimuseo.52919
-        // Äijälä https://lohja.emmi.fi/l/QtFJd7KPk_jZ
     ]
   }

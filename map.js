@@ -1,4 +1,4 @@
-var map = L.map('map').setView([60.207246, 24.833565], 12);
+var map = L.map('map').setView([60.33719, 24.32535], 10);
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
@@ -10,8 +10,8 @@ function onEachFeature(feature, layer) {
         layer.bindPopup(
             '<strong>' + feature.properties.name + '</strong><br>' +
             feature.properties.address + '<br>' +
-            '<a href="' + feature.properties.rhs + '" target="_blank">Rakennushistoriaselvitys</a>' + '<br>' +
-            '<a href="https://web.archive.org/' + feature.properties.rhs + '" target="_blank">Rakennushistoriaselvitys (arkistoitu)</a>'
+            '<a href="' + feature.properties.rhs + '" target="_blank">Linkki selvitykseen</a>' + '<br>' +
+            '<a href="https://web.archive.org/' + feature.properties.rhs + '" target="_blank">Linkki selvitykseen (arkistoitu)</a>'
         );
     }
 }
