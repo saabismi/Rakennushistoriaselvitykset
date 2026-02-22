@@ -717,7 +717,7 @@ let rakennushistoria =
         "properties": {
           "address": "Betonimiehenkuja 4 / Kivimiehentie 1",
           "name": "Geologian tutkimuskeskus (GTK)",
-          "rhs": "https://static.espoo.fi/cdn/ff/gEkeZD_jHfe23Xj6HIP_j2EDuUCGujjqxWb-i_2QjPo/1617800517/public/2021-04/Rakennushistoriaselvitys%20Geologian%20tutkimuskeskus%202017%20Ei%20saavutettava.pdf"
+          "rhs": "https://www.senaatti.fi/app/uploads/2017/12/2017_ark-byroo_Espoo_GTK.pdf" // parempi laatu kuin espoon sivulla
         }
       },
       {
