@@ -1531,6 +1531,34 @@ let rakennushistoria =
         "name":"VTT Betoniteknillinen laboratorio ja Sillanrakennus- ja staattinen laboratorio",
         "rhs": "https://espoo365-my.sharepoint.com/personal/toni_saastamoinen_espoo_fi/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftoni%5Fsaastamoinen%5Fespoo%5Ffi%2FDocuments%2FTiedonjako%2FBetonimiehenkuja%203%20ja%205%20RHS%20saavutettava%2Epdf&parent=%2Fpersonal%2Ftoni%5Fsaastamoinen%5Fespoo%5Ffi%2FDocuments%2FTiedonjako&ga=1"
       }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.831543761247936, 60.18969625160753
+        ]
+      },
+      "properties": {
+        "address": "Otakaari 5 L",
+        "name":"Sähkötekniikan osaston suurjännitehalli",
+        "rhs": "https://admin.espoo.fi/sites/default/files/2025-06/220508%20S%C3%A4hk%C3%B6osasto%20Otakaari%205%20L%20Suurj%C3%A4nnitehalli%20rakennushistoriaselvitys%202023.pdf"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.830736113348998, 60.188995082789575
+        ]
+      },
+      "properties": {
+        "address": "Otakaari 5",
+        "name":"Sähkötekniikan osasto",
+        "rhs": "https://admin.espoo.fi/sites/default/files/2025-06/220508%20S%C3%A4hk%C3%B6osasto%20Otakaari%205%20rakennushistoriaselvitys%202019.pdf"
+      }
     }
       
       // Jono:
