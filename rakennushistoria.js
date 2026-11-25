@@ -1559,11 +1559,52 @@ let rakennushistoria =
         "name":"Sähkötekniikan osasto",
         "rhs": "https://admin.espoo.fi/sites/default/files/2025-06/220508%20S%C3%A4hk%C3%B6osasto%20Otakaari%205%20rakennushistoriaselvitys%202019.pdf"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.816044782112495, 60.17860740023428
+        ]
+      },
+      "properties": {
+        "address": "Tapiolan itäiset lähiöt",
+        "name":"Tapiolan itäisten lähiöiden rakennuskannan arvottaminen",
+        "rhs": "https://admin.espoo.fi/sites/default/files/2021-06/Tapiolan%20it%C3%A4isten%20l%C3%A4hi%C3%B6iden%20rakennuskannan%20arvottaminen%202000%20Ei%20saavutettava.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.823394406632154, 60.18277048634288
+        ]
+      },
+      "properties": {
+        "address": "Kemistintie",
+        "name":"Kemistin korttelin kulttuuriympäristöselvitys",
+        "rhs": "https://www.senaatti.fi/app/uploads/2021/08/978-952-368-082-1_2021_Ark-Byroo_Kemistin-kortteli_lores-s.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.806588868622526, 60.18058115391842
+        ]
+      },
+      "properties": {
+        "address": "Aarnivalkeantie",
+        "name":"Aarnivalkean kulttuuriympäristöselvitys ja maisema-analyysi",
+        "rhs": "https://admin.espoo.fi/sites/default/files/2026-11/Aarnivalkean%20kulttuuriymp%C3%A4rist%C3%B6selvitys%20ja%20maisema-analyysi%20Saatsi%202026%20saavutettava.pdf"
+      }
     }
       
       // Jono:
         // Selvityksiä: https://www.senaatti.fi/valtion-kiinteistot/kulttuuriperintomme/raportit/?s_city%5B%5D=espoo
-        // Kulttuuriympäristöselvitys Kemistin kortteli https://www.senaatti.fi/app/uploads/2021/08/978-952-368-082-1_2021_Ark-Byroo_Kemistin-kortteli_lores-s.pdf
         // Vantaan poliisi- ja oikeustalo https://www.senaatti.fi/app/uploads/2021/08/978-952-368-088-3_2021_Vantaan-oikeus-ja-poliisitalo_RHS.pdf
       // Saarnilaakson koulu https://finna.fi/Record/arkkitehtuurimuseo.52949
       // Espoon valtuustotalo https://finna.fi/Record/arkkitehtuurimuseo.52829
